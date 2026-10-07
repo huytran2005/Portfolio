@@ -36,6 +36,12 @@ export function Navbar() {
             Skills
           </a>
           <a
+            href="#certifications"
+            className="px-3 py-1.5 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-800/50 transition-colors"
+          >
+            Certificates
+          </a>
+          <a
             href="#projects"
             className="px-3 py-1.5 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-800/50 transition-colors"
           >
